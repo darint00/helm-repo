@@ -3,12 +3,12 @@ entries:
   sports-analytics:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-12-28T02:13:01.448217-06:00"
+    created: "2024-12-28T02:40:17.10163-06:00"
     description: A Helm chart for Kubernetes
-    digest: ecdeeba6d4e8a6e7db9da5816f99d4842f17b6441f3c4714d8ce15b2a3b56569
+    digest: e06980d1bd6f8e3bb5566b44b94c3f7e7e32bd0c3adf9e6673593b11557b282d
     name: sports-analytics
     type: application
     urls:
-    - sports-analytics-0.1.0.tgz
+    - https://darint00.github.io/helm-repo/charts/sports-analytics-0.1.0.tgz
     version: 0.1.0
-generated: "2024-12-28T02:13:01.447651-06:00"
+generated: "2024-12-28T02:40:17.10118-06:00"
